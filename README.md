@@ -2,7 +2,7 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif">
 
-Now that you're familiar with jQuery, it's time to dive into jQuery methods. Methods in jQuery give our code functionality to add animations to all our pages. It let's us change the styling of our page without writing in any CSS files, let's us hide elements, make elements appear, and all sorts of other magic.
+Now that you're familiar with jQuery, it's time to dive into jQuery methods. Methods in jQuery give our code functionality to add animations to all our pages. It lets us change the styling of our page without writing in any CSS files, let's us hide elements, make elements appear, and all sorts of other magic.
 
 ##Some Things You Should Know
 
